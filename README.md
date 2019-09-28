@@ -62,5 +62,3 @@ Preview
 ![Firebase database view](https://i.imgur.com/0XIExhk.png)
 
 
-
-# WWStay-assignment
