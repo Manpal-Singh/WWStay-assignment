@@ -1,6 +1,6 @@
 WWStay Assignment
 ------------------------------
-It is a fully responsive website developed using bootstrap3 where users can create their account, login to their account and see the content of the website.
+It is a fully responsive website developed using HTML/CSS/JAVASCRIPT/BOOTSTRAP3 where users can create their account, login to their account and see the content of the website.
 
 Features
 ------------------------------
